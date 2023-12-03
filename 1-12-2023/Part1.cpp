@@ -2,7 +2,8 @@
 
 using namespace std;
 
-
+//Had to press Ctrl + Z to stop the infinte loop, could have cheated a little by just hardcoding it to read
+//1000 lines (That is the amount of inputs) but I in the end left it as is.
 int main(){
     string text;
     int sum = 0;
